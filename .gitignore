@@ -5,3 +5,4 @@ tmp/*
 *.swp
 .DS_Store
 public/assets
+/public/system/movies/images
